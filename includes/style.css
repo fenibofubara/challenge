@@ -1,0 +1,23 @@
+table,tr,td{
+	border: 1px solid;
+	border-color: #06967D;
+	border-top-width:5px;
+	
+	
+
+}
+
+td,tr,th{
+	padding-right: 10px;
+	text-align: center;
+
+}
+tr:nth-child(even) {
+    background-color:#DEE1E2;
+}
+th {
+    text-align: left;
+}
+table{
+	border-spacing: 15px;
+}
